@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="7.4.0"/>
+	<deviceVariant value="MSP432P401R"/>
+	<deviceFamily value="MSP432"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="GNU_6.3.1:Linaro"/>
+	<isElfFormat value="true"/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<templateProperties value="id=tirtos_builds_MSP_EXP432P401R_debug_gcc.projectspec.tirtos_builds_MSP_EXP432P401R_debug_gcc,products=com.ti.SIMPLELINK_MSP432_SDK,xdcToolsVersion=3.50.999,target=gnu.targets.arm.M4F,platform=ti.platforms.msp432:MSP432P401R,buildProfile=release,"/>
+	<origin value="/Applications/ti/simplelink_msp432p4_sdk_1_60_00_12/kernel/tirtos/builds/MSP_EXP432P401R/debug/gcc/tirtos_builds_MSP_EXP432P401R_debug_gcc.projectspec"/>
+	<filesToOpen value=""/>
+	<isTargetManual value="false"/>
+</projectOptions>
